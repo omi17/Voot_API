@@ -16,13 +16,13 @@
  
 ♢ After Copy Paste URL after this URL : <br>
 ```py
-  http://localhost/?q=
+  https://vootaka.omi17.repl.co/?q=
 ```
   
 ♢ It Final URL is --> 
   
 ```py
-  http://localhost/?q=https://www.voot.com/movies/petta/962823
+ https://vootaka.omi17.repl.co/?q=https://www.voot.com/movies/petta/962823
 ```
 ♢ Run Final URL in Browser You Get Streaming URL and All Data<br>
 </h4>
